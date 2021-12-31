@@ -5,7 +5,8 @@
 [![License](https://img.shields.io/cocoapods/l/XWSwiftLoader.svg?style=flat)](https://cocoapods.org/pods/XWSwiftLoader)
 [![Platform](https://img.shields.io/cocoapods/p/XWSwiftLoader.svg?style=flat)](https://cocoapods.org/pods/XWSwiftLoader)
 
-写XWSwiftLoader库的目的：为了`Swift`中`+ (void)load;`与`+ (void)initialize;`的实现；
+写XWSwiftLoader库的目的：`Swift`环境中`+ (void)load;`与`+ (void)initialize;`的实现；
+
 
 ## Installation
 
