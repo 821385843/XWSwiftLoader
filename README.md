@@ -5,12 +5,6 @@
 [![License](https://img.shields.io/cocoapods/l/XWSwiftLoader.svg?style=flat)](https://cocoapods.org/pods/XWSwiftLoader)
 [![Platform](https://img.shields.io/cocoapods/p/XWSwiftLoader.svg?style=flat)](https://cocoapods.org/pods/XWSwiftLoader)
 
-## Example
-
-To run the example project, clone the repo, and run `pod install` from the Example directory first.
-
-## Requirements
-
 ## Installation
 
 XWSwiftLoader is available through [CocoaPods](https://cocoapods.org). To install
@@ -20,9 +14,13 @@ it, simply add the following line to your Podfile:
 pod 'XWSwiftLoader'
 ```
 
+## 说明
+
+具体使用见 example project
+
 ## Author
 
-xiewei, 821385843@qq.com
+[__Mr_Xie__](https://www.jianshu.com/u/01fbf85c32f9)
 
 ## License
 
