@@ -1,0 +1,23 @@
+{
+  "name": "XWSwiftLoader",
+  "version": "0.1.0",
+  "summary": "An open-source make swift aviable load and initialize method for XWSwiftLoader",
+  "description": "An open-source make swift aviable load and initialize method for XWSwiftLoader",
+  "homepage": "https://github.com/xiewei/XWSwiftLoader",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "xiewei": "821385843@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/xiewei/XWSwiftLoader.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "XWSwiftLoader/Classes/**/*",
+  "public_header_files": "XWSwiftLoader/Classes/**/*.h"
+}

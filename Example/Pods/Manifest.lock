@@ -1,0 +1,16 @@
+PODS:
+  - XWSwiftLoader (0.1.0)
+
+DEPENDENCIES:
+  - XWSwiftLoader (from `../`)
+
+EXTERNAL SOURCES:
+  XWSwiftLoader:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  XWSwiftLoader: 9f8c76de01794cf87005a2c97782ac80b31f6781
+
+PODFILE CHECKSUM: 61a08649f7eba88b732f340846dc1490ef2517ba
+
+COCOAPODS: 1.10.2
