@@ -19,7 +19,7 @@
 /* Begin PBXFileReference section */
 		05081278277EA574005DC5AB /* swifty.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = swifty.m; sourceTree = "<group>"; };
 		3727264E7AA0F13E934FE975 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
-		522D2F4B1CFE9A27C98710DA /* XWSwiftLoader.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = XWSwiftLoader.podspec; path = ../XWSwiftLoader.podspec; sourceTree = "<group>"; };
+		522D2F4B1CFE9A27C98710DA /* XWSwiftLoader.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = XWSwiftLoader.podspec; path = ../XWSwiftLoader.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		607FACD01AFB9204008FA782 /* XWSwiftLoader_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = XWSwiftLoader_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD41AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACD51AFB9204008FA782 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
