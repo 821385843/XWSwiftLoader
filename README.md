@@ -67,6 +67,11 @@ extension ViewController: XWSwiftLoaderProtocol {
 
 注⚠️：具体可以参照demo中示例
 
+## 作者其他框架
+[MGJRouter_Swift](https://github.com/821385843/MGJRouter_Swift)：一个高效/灵活的 iOS Swift 版 URL Router，完全实现了蘑菇街 Object-C 版 [MGJRouter](https://github.com/meili/MGJRouter) 的所有功能。虽然 github 上也有一款参照 MGJRouter 仿写的 Swift 版框架，但是却去掉了 MGJRouter 的很多功能，不实用。
+
+[RSA_Swift](https://github.com/821385843/RSA_Swift)：这是一个 `Swift` 版本轻量级的框架，框架功能包括：`RSA` 加密/解密字符串、`RSA` 加密/解密 `Data`、字符串的 `MD5`、文件的 `MD5` 值的获取。
+
 ## Author
 
 简书号：[__Mr_Xie__](https://www.jianshu.com/u/01fbf85c32f9)，如果你有什么建议，可以关注我的简书，直接留言，留言必回。
